@@ -27,7 +27,7 @@ require("mtc_class.php");
 
 $MTC = new MTC_CLASS();
 
-foreach ($_POST as $key => $value)
+foreach ($_GET as $key => $value)
 {
 	$$key = $value;
 }
