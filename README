@@ -22,4 +22,4 @@ INSTALL
 	- Style Index.php
 
 OPTIONAL
-	It's preferable to set debug to true in production enviroment
+	It's preferable to set debug to false in production enviroment
